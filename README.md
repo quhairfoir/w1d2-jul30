@@ -14,5 +14,5 @@ Very cool little finger algorithm to multiply some numbers.
   pinky = 10
 3. Join all the fingers that represent the 2 numbers being multiplied.
 4. Then, count how many fingers are joined... x10.
-5. Lastly, count roaming fingers from left hand and multiply bu roaming fingers in right hand. 
+5. Lastly, count roaming fingers from left hand and multiply by roaming fingers in right hand. 
 6. Add step 4 and step 5. 
